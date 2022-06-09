@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.headersection{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+
+}
+
+#shape{
+    position: relative;
+    height: 200px;
+    width: 200px;
+    background-color: red ;
+    display: none;
+    
+
+}
